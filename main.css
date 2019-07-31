@@ -3,12 +3,15 @@
   text-align: center;
   font-family: Cinzel;
 }
+
 h1 {
   text-align: center;
 }
-.tribute-info {
+
+.tribute-info-wiki {
   text-align: center;
 }
+
 #image {
   width:100%;
   display: block;
@@ -21,10 +24,6 @@ h1 {
  text-align: center;
 }
 
-body {
-  background-color: #DCDCDC;
-}
-
 #Like-Mike {
   text-align: center;
   font-size: 50px;
@@ -34,6 +33,7 @@ body {
   text-align: center;
   margin-bottom: 150px;
 }
+
 #desc {
  font-family: Cinzel;
 }

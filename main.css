@@ -34,7 +34,7 @@ h1 {
   margin-bottom: 150px;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 800px) {
   #song {
   max-width: 100%;
   height: auto;

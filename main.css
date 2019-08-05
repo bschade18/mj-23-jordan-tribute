@@ -3,6 +3,11 @@
   text-align: center;
   font-family: Cinzel, Arial;
 }
+#desc {
+ font-family: Cinzel, Arial;
+ font-size: 4vw;
+ text-align: center;
+}
 .tribute-info-wiki {
   text-align: center;
 }
@@ -30,10 +35,6 @@
   height: auto;
   }
 }
-#desc {
- font-family: Cinzel, Arial;
- font-size: 4vw;
- text-align: center;
-}
+
 
 

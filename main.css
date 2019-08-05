@@ -1,7 +1,7 @@
 #title {
-  font-size: 40px;
+  font-size: 5vw;
   text-align: center;
-  font-family: Cinzel;
+  font-family: Cinzel, Arial;
 }
 
 h1 {
@@ -20,13 +20,13 @@ h1 {
 }
 
 #img-caption{
- font-size: 20px;
+ font-size: 3vw;
  text-align: center;
 }
 
 #Like-Mike {
   text-align: center;
-  font-size: 50px;
+  font-size: 5vw;
 }
 
 .video {
@@ -42,7 +42,8 @@ h1 {
 }
 
 #desc {
- font-family: Cinzel;
+ font-family: Cinzel, Arial;
+ font-size: 4vw;
 }
 
 

@@ -3,47 +3,37 @@
   text-align: center;
   font-family: Cinzel, Arial;
 }
-
-h1 {
-  text-align: center;
-}
-
 .tribute-info-wiki {
   text-align: center;
 }
-
 #image {
   max-width: 100%;
   display: block;
   height: auto;
   margin: auto;
 }
-
 #img-caption{
  font-size: 3vw;
  text-align: center;
 }
-
 #Like-Mike {
   text-align: center;
   font-size: 5vw;
 }
-
 .video {
   text-align: center;
   margin-bottom: 150px;
 }
-
 @media (max-width: 800px) {
   #song {
   max-width: 100%;
   height: auto;
   }
 }
-
 #desc {
  font-family: Cinzel, Arial;
  font-size: 4vw;
+ text-align: center;
 }
 
 
